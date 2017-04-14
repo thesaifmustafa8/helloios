@@ -2,7 +2,7 @@
 //  AppDelegate.swift
 //  Hello-iOS
 //
-//  Created by Saif Mustafa on 3/29/17.
+//  Created by Saif Mustafa on 3/29/17
 //  Copyright © 2017 saifm. All rights reserved.
 //
 
